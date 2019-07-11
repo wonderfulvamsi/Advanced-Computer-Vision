@@ -2,7 +2,7 @@
 
 I Designed few innovative machine/methods 2 capture images/videos by a CC-camera 
 @ all angles not just 1(i.e usually front angle)...!!
-![](Capture.png)
+![Prototype](https://raw.githubusercontent.com/wonderfulvamsi/Next-Gen-Cameras..-/master/Capture.PNG)
 
 prerequisites
 ->Basic knowledge about mirrors & lenses..
