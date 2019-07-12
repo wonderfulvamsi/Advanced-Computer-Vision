@@ -3,8 +3,6 @@
 I have designed an innovative method 2 capture images/videos @ all angles, not just 1...!!
 ![Prototype](https://content.fortune.com/wp-content/uploads/2016/09/lrn10_a.jpg)
 Usually, our traditional cameras are capable of capturing the videos/images in the Front view only.
-![Prototype](https://raw.githubusercontent.com/wonderfulvamsi/Next-Gen-Cameras..-/master/Capture.PNG)
-
 But in case of training a Deep Neural Network, we often required lots of Data especially for complex tasks like  Face Recognition images captured at multiple angles can be beneficial & can lead to a drastic increment of the ML model accuracy..!!
 
 Proper implementation of my techniques can save Electricity, Data Space and the cost involved buying & maintaining more cameras.
