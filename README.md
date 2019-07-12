@@ -1,5 +1,7 @@
 # Advanced Face recognition with help of lenses and mirrors for camera..
+
 I have designed an innovative method 2 capture images/videos @ all angles, not just 1...!!
+![Prototype](https://content.fortune.com/wp-content/uploads/2016/09/lrn10_a.jpg)
 Usually, our traditional cameras are capable of capturing the videos/images in the Front view only.
 ![Prototype](https://raw.githubusercontent.com/wonderfulvamsi/Next-Gen-Cameras..-/master/Capture.PNG)
 
